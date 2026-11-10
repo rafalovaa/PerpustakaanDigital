@@ -15,6 +15,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [The Beginners Guide to Stoicism Tools](ebook/The Beginners Guide to Stoicism Tools.pdf) – Matthew Van Natta (2019)
 10. [The Psychology of Money](ebook/The Psychology of Money (Morgan Housel) (Z-Library) (1) 2.pdf) – Morgan Housel (2020)
 11. [Ringkasan UGC](ebook/Ringkasan UGC (Rafa Lova Adiasa).pdf) – Rafa Lova Adiasa (2026)
----
+
 
 *Powered by GitHub Pages*
